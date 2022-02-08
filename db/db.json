@@ -1,0 +1,58 @@
+{
+  "users": [
+    {
+      "name": "grace",
+      "email": "g@g.com"
+    },
+    {
+      "name": "",
+      "email": "",
+      "password": "",
+      "id": 5
+    },
+    {
+      "name": "sss",
+      "email": "sss@g.co",
+      "password": "1234",
+      "id": 6
+    },
+    {
+      "name": "grace",
+      "email": "grace@gmail.com",
+      "password": "1234",
+      "id": 7
+    },
+    {
+      "name": "Grace",
+      "email": "u@d.o",
+      "password": "1234",
+      "id": 8
+    }
+  ],
+  "restaurant": [
+    {
+      "name": "Resto 1",
+      "address": " Road -one",
+      "contact": 11111,
+      "id": 1
+    },
+    {
+      "name": "Resto 2",
+      "address": " Road -two",
+      "contact": 22222,
+      "id": 2
+    },
+    {
+      "name": "Resto 3",
+      "address": " Road -three",
+      "contact": 33333,
+      "id": 3
+    },
+    {
+      "name": "Resto 4",
+      "address": "Near The sea",
+      "contact": "4444",
+      "id": 4
+    }
+  ]
+}
